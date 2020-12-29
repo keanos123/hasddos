@@ -242,7 +242,7 @@ class MonitorThread(threading.Thread):
 				print "%d Requests Sent" % (request_counter)
 				previous=request_counter
 		if flag==2:
-			print "\n-- gelistirildi2 Attack Finished --"
+			print "\n-- aeren7318 Attack Finished --"
 
 #execute 
 if len(sys.argv) < 2:
