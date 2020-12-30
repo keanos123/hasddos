@@ -211,7 +211,7 @@ def httpcall(url):
 	except urllib2.HTTPError, e:
 			#print e.code
 			set_flag(1)
-			print 'Response Code 500'
+			print 'site Allahına kavusuyor'
 			code=500
 	except urllib2.URLError, e:
 			#print e.reason
